@@ -232,6 +232,7 @@ assertTrue("Test that after item is returned, item can be loaned again", loan1);
 	}
 	
 	
+	
 	@After
 	public void tearDown() throws Exception {
 		cc1 = null;
